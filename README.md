@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alokcm
-- 👀 I’m interested in development
-- 🌱 I’m currently learning games development via cocos
+- 👋 Hi, I’m Alok Raj
+- 👀 I am interested in exploring.
+- 🌱 I’m currently working on games development via cocos
 - 💞️ I’m looking to collaborate and get any help in this development
 
 <!---
